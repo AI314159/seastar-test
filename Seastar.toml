@@ -1,0 +1,10 @@
+[package]
+project_name = "seastar_pkg"
+
+compiler = "gcc"
+cpp_compiler = "g++"
+is_library = true
+
+[options]
+
+[dependencies]
